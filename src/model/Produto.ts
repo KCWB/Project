@@ -3,5 +3,4 @@ export interface Produto{
     descrição: String;
     quantidade: number;
     preco: number
-
 }
